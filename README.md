@@ -30,8 +30,7 @@
  
  7.	After finishing the sketch switch to drawing mode to plot the sketch in ISO standard
  
- ![image](https://user-images.githubusercontent.com/113594316/198232997-7172a35b-79a2-45e4-88a3-5e741b4d90ce.png)
- 
+ ![image](https://user-images.githubusercontent.com/113594316/198232997-7172a35b-79a2-45e4-88a3-5e741b4d90ce.png) 
  ![image](https://user-images.githubusercontent.com/113594316/198233011-28615257-fc2b-4c81-852a-49722c948e07.png)
  
  ## SKETCH
@@ -39,7 +38,6 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- 
  ![exp1 2_page-0001](https://github.com/Abburehan/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/138849336/2a6fd743-1d01-467d-a04f-d80d31ef3feb)
 
  ## RESULT
